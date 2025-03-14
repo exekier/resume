@@ -1,0 +1,11 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ig-gradient-text {
+    font-size: 50px;
+    font-weight: bold;
+    background: linear-gradient(45deg, #f9ce34, #ee2a7b, #ee2a7b);
+    -webkit-background-clip: text;
+    color: transparent;
+}
